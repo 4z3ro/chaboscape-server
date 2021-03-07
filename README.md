@@ -3,4 +3,4 @@
 
 Download pack in releases and install through curseforge.
 
-Download optifine [here](Download optifine [url=https://www.optifine.net/downloads)
+Download optifine [here](https://www.optifine.net/downloads) 
